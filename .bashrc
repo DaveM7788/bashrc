@@ -15,4 +15,5 @@ alias cdsh='cat /c/Users/david/.bashrc'
 
 # allow CLI python prompt in git bash + java System.console()
 alias python='winpty python'
+alias py='winpty python'
 alias java='winpty java'
